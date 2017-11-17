@@ -17,7 +17,7 @@ export class FormInputs extends Component{
             row.push(
                 <div key={i} className={this.props.ncols[i]}>
                     <FieldGroup
-                        {...this.props.proprieties[i]}
+                        {...this.props.properties[i]}
                     />
                 </div>
             );

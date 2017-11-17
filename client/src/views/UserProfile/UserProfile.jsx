@@ -21,7 +21,7 @@ class UserProfile extends Component {
                                     <form>
                                         <FormInputs
                                             ncols = {["col-md-5" , "col-md-3" , "col-md-4"]}
-                                            proprieties = {[
+                                            properties = {[
                                                 {
                                                  label : "Company (disabled)",
                                                  type : "text",
@@ -47,7 +47,7 @@ class UserProfile extends Component {
                                         />
                                         <FormInputs
                                             ncols = {["col-md-6" , "col-md-6"]}
-                                            proprieties = {[
+                                            properties = {[
                                                 {
                                                  label : "First name",
                                                  type : "text",
@@ -66,7 +66,7 @@ class UserProfile extends Component {
                                         />
                                         <FormInputs
                                             ncols = {["col-md-12"]}
-                                            proprieties = {[
+                                            properties = {[
                                                 {
                                                     label : "Adress",
                                                     type : "text",
@@ -78,7 +78,7 @@ class UserProfile extends Component {
                                         />
                                         <FormInputs
                                             ncols = {["col-md-4","col-md-4","col-md-4"]}
-                                            proprieties = {[
+                                            properties = {[
                                                 {
                                                     label : "City",
                                                     type : "text",
