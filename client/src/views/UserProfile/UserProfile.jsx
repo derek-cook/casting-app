@@ -94,7 +94,7 @@ class UserProfile extends Component {
                                                     defaultValue : "Andrew"
                                                 },
                                                 {
-                                                    label : "Pastal Code",
+                                                    label : "Zip Code",
                                                     type : "number",
                                                     bsClass : "form-control",
                                                     placeholder : "ZIP Code"
