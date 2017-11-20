@@ -1,10 +1,10 @@
 import constants from '../constants'
 
 var currentUserDummy = {
-    firstName: "Rick",
-    lastName: "Ross",
-    email: "rickross@gmail.com",
-    userName: "rickross",
+    firstName: "Aubrey",
+    lastName: "Graham",
+    email: "aubreyg@gmail.com",
+    userName: "champagnepapi",
     agency: "Affinity Artists Agency",
     phone: "(555)012-3456",
     city: "Los Angeles",
